@@ -1,4 +1,6 @@
 imageuploadersample
 ===================
 
-upload image by using carriverwave
+A very simple sample of upload image by using carriverwave, mongoid and rmagick
+
+
